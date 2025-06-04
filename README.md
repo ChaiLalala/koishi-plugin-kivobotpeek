@@ -1,2 +1,2 @@
 # koishi-plugin-kivobotpeek
-You can make the group friends look at your plugin
+A plugin that allows your friends to keep an eye on your computer screen all the time
