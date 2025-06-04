@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-kivobotpeek",
   "description": "可以让群友视奸你的插件",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "contributors": [
     "ChaiAlice <chai_lktm@outlook.com>"
   ],
