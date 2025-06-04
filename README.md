@@ -2,6 +2,12 @@
 
 [![npm](https://img.shields.io/npm/v/koishi-plugin-kivobotpeek?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-kivobotpeek)
 
+需要客户端和服务端搭配使用！
+Requires a combination of client and server
+
+https://github.com/ChaiLalala/koishi-plugin-kivobotpeek/
+https://github.com/ChaiLalala/koishi-plugin-kivobotpeek-client/
+
 A plugin that allows your friends to keep an eye on your computer screen all the time
 可以让你的朋友随时偷看你电脑屏幕的插件
 
@@ -10,3 +16,4 @@ A plugin that allows your friends to keep an eye on your computer screen all the
 
 本项目仅供娱乐！！！
 This item is for entertainment purposes only!!
+
